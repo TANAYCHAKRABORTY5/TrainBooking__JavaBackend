@@ -5,21 +5,5 @@ It contains a basic local DataBase for now.
 
 ---
 
-## 📁 Project Structure
-
-IRCTC_backend/
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/
-│ │ │ │ └── ticket/
-│ │ │ │ └── booking/
-│ │ │ │ ├── entities/
-│ │ │ │ ├── service/
-│ │ │ │ └── util/
-│ │ │ └── localDB/
-│ │ │ ├── trains.json
-│ │ │ └── users.json
-├── build.gradle
-└── settings.gradle
+For creating the project use gradle init
 
